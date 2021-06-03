@@ -1,0 +1,6 @@
+D:\anhmtps11960\Duanmau_SOF205\Data\QLBH\DTO\bin\Release\DTO.dll
+D:\anhmtps11960\Duanmau_SOF205\Data\QLBH\DTO\bin\Release\DTO.pdb
+D:\anhmtps11960\Duanmau_SOF205\Data\QLBH\DTO\obj\Release\DTO.csprojAssemblyReference.cache
+D:\anhmtps11960\Duanmau_SOF205\Data\QLBH\DTO\obj\Release\DTO.csproj.CoreCompileInputs.cache
+D:\anhmtps11960\Duanmau_SOF205\Data\QLBH\DTO\obj\Release\DTO.dll
+D:\anhmtps11960\Duanmau_SOF205\Data\QLBH\DTO\obj\Release\DTO.pdb

@@ -1,0 +1,6 @@
+D:\anhmtps11960\Duanmau_SOF205\Data\QLBH\DTO\bin\Debug\DTO.dll
+D:\anhmtps11960\Duanmau_SOF205\Data\QLBH\DTO\bin\Debug\DTO.pdb
+D:\anhmtps11960\Duanmau_SOF205\Data\QLBH\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\anhmtps11960\Duanmau_SOF205\Data\QLBH\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\anhmtps11960\Duanmau_SOF205\Data\QLBH\DTO\obj\Debug\DTO.dll
+D:\anhmtps11960\Duanmau_SOF205\Data\QLBH\DTO\obj\Debug\DTO.pdb
